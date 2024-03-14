@@ -1,0 +1,186 @@
+﻿country,Fertility_rate(births),Life_expectancy(yr)
+Afghanistan,4.04,63.4
+Angola,5.41,65.2
+Albania,1.7,77.9
+United Arab Emirates,1.69,74
+Argentina,2.23,74.6
+Armenia,1.59,74
+Antigua and Barbuda,2.01,76.3
+Australia,1.81,82.9
+Austria,1.54,81.5
+Azerbaijan,2.01,70.4
+Burundi,5.38,64
+Belgium,1.81,80.2
+Benin,4.7,64.6
+Burkina Faso,5.03,61.8
+Bangladesh,2,74.7
+Bulgaria,1.62,71.8
+Bahrain,1.94,76.3
+Bahamas,1.74,72.3
+Bosnia and Herzegovina,1.42,75.4
+Belarus,1.73,73.5
+Belize,2.38,72.1
+Bolivia,2.73,69.8
+Brazil,1.67,73.6
+Barbados,1.8,76.2
+Brunei,1.82,74.4
+Bhutan,1.94,73.3
+Botswana,2.56,61.6
+Central African Republic,4.57,52.4
+Canada,1.56,81.5
+Switzerland,1.56,83.2
+Chile,1.75,79.1
+China,1.65,77.7
+Cote d'Ivoire,4.66,64.4
+Cameroon,4.44,63.5
+"Congo, Dem. Rep.",5.72,65.2
+"Congo, Rep.",4.42,65.4
+Colombia,1.78,77.8
+Comoros,4.07,68.8
+Cape Verde,2.2,73.1
+Costa Rica,1.73,78.9
+Cuba,1.72,78.7
+Cyprus,1.33,80.8
+Czech Republic,1.6,78.5
+Germany,1.49,81
+Djibouti,2.62,66.8
+Denmark,1.77,81.2
+Dominican Republic,2.31,72.7
+Algeria,2.54,76.2
+Ecuador,2.38,73.9
+Egypt,3.06,71
+Eritrea,3.86,64
+Spain,1.42,81.5
+Estonia,1.69,77.7
+Ethiopia,3.76,69
+Finland,1.79,82
+Fiji,2.42,68.4
+France,1.97,82.2
+"Micronesia, Fed. Sts.",2.97,64.2
+Gabon,3.54,67.8
+United Kingdom,1.87,79.4
+Georgia,1.96,72.6
+Ghana,3.76,66.4
+Guinea,4.55,61.3
+Gambia,5.14,66.9
+Guinea-Bissau,4.34,61
+Equatorial Guinea,4.34,66.1
+Greece,1.3,80.4
+Grenada,2.02,73.3
+Guatemala,2.77,71.5
+Guyana,2.41,66.8
+"Hong Kong, China",1.38,84.5
+Honduras,2.32,70.7
+Croatia,1.44,77.9
+Haiti,2.73,63.9
+Hungary,1.43,75.8
+Indonesia,2.26,71.4
+India,2.24,70.8
+Ireland,1.97,81.1
+Iran,1.57,76.2
+Iraq,4.14,72.1
+Iceland,1.9,84
+Italy,1.52,81.9
+Jamaica,1.95,76.2
+Jordan,3.12,76.9
+Japan,1.51,84.7
+Kazakhstan,2.51,71.2
+Kenya,3.63,66.4
+Kyrgyz Republic,2.82,72.9
+Cambodia,2.45,70
+Kiribati,3.49,60.8
+South Korea,1.36,82.8
+Kuwait,1.94,81.2
+Lao,2.5,69.1
+Lebanon,1.7,76.2
+Liberia,4.32,66.2
+Libya,2.13,75.5
+St. Lucia,1.42,75.2
+Sri Lanka,1.99,77.3
+Lesotho,2.91,52
+Lithuania,1.69,74.8
+Luxembourg,1.61,82
+Latvia,1.6,75.9
+Morocco,2.35,73
+Moldova,1.23,73.3
+Madagascar,3.97,65.6
+Maldives,1.94,79.1
+Mexico,2.07,73
+North Macedonia,1.56,72.8
+Mali,5.7,62
+Malta,1.5,82.3
+Myanmar,2.13,69.4
+Montenegro,1.64,74.4
+Mongolia,2.59,68.2
+Mozambique,4.99,58.4
+Mauritania,4.43,70.7
+Mauritius,1.42,75.5
+Malawi,4.31,64.8
+Malaysia,1.97,75.1
+Namibia,3.19,65.4
+Niger,7,62.6
+Nigeria,5.25,64.5
+Nicaragua,2.09,75.4
+Netherlands,1.76,81
+Norway,1.83,83.2
+Nepal,2,71.1
+New Zealand,1.95,81.8
+Oman,2.4,72.7
+Pakistan,3.23,65.9
+Panama,2.41,77
+Peru,2.29,77.4
+Philippines,2.81,71.8
+Papua New Guinea,3.47,64.8
+Poland,1.29,76.7
+North Korea,1.87,73.2
+Portugal,1.24,80.9
+Paraguay,2.38,75.7
+Palestine,3.75,73.6
+Qatar,1.83,76.2
+Romania,1.56,74.1
+Russia,1.77,71.2
+Rwanda,3.6,68.7
+Saudi Arabia,2.38,74.3
+Sudan,4.29,70.5
+Senegal,4.49,68.5
+Singapore,1.27,84.9
+Solomon Islands,3.64,59.2
+Sierra Leone,4.08,61.9
+El Salvador,2,75.1
+Somalia,5.89,58.6
+Serbia,1.63,75.2
+South Sudan,4.54,63.9
+Sao Tome and Principe,4.22,70.7
+Suriname,2.28,72.4
+Slovak Republic,1.49,76.7
+Slovenia,1.66,80.4
+Sweden,1.91,82
+Eswatini,2.89,58
+Seychelles,2.2,73.6
+Syria,2.73,74.4
+Chad,5.55,60.5
+Togo,4.2,65.2
+Thailand,1.43,78.5
+Tajikistan,3.18,69.6
+Turkmenistan,2.7,70.9
+Timor-Leste,5.06,70.7
+Tonga,3.48,73
+Trinidad and Tobago,1.71,74.8
+Tunisia,2.1,77
+Turkey,1.98,77.8
+Taiwan,1.25,80.4
+Tanzania,4.77,67.3
+Uganda,5.24,66.4
+Ukraine,1.59,73.2
+Uruguay,1.95,77.3
+United States,1.89,77
+Uzbekistan,2.18,68.4
+St. Vincent and the Grenadines,1.85,73
+Venezuela,2.23,75.1
+Vietnam,1.94,74.5
+Vanuatu,3.14,65.5
+Samoa,3.78,70.5
+Yemen,3.61,67.8
+South Africa,2.35,64.3
+Zambia,4.76,63.1
+Zimbabwe,3.47,60.7
